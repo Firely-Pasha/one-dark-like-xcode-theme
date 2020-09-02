@@ -93,11 +93,11 @@
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.111181 0.111181 0.111181 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.215028 0.438333 1 1</string>
+	<string>0.999999 0.999974 0.999991 0.504709</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.207045 0.231726 0.289951 1</string>
+	<string>0.195438 0.220332 0.275216 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0 0.42554 0.783291 1</string>
+	<string>0.424672 0.424672 0.424672 0.266561</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
